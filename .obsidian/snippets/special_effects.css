@@ -1,0 +1,31 @@
+/* Translucent modals - from: Nosedive-Obsidian */
+
+
+/* Modify modal, omnibar, open looks */
+
+input.prompt-input,
+input.prompt-input:active,
+input.prompt-input:focus {
+    border-radius: 3px;
+    border: 2px solid rgba(38, 38, 59, 0.5);
+    /* in the original code this is var(--text-muted) */
+    background-color: transparent;
+    box-sizing: border-box;
+    border-collapse: collapse;
+}
+
+.modal-bg {
+    background-color: #FFFFFF01;
+    backdrop-filter: blur(20px);
+}
+
+
+/* Make legible background for menus since we overrode the background */
+
+div.popover.hover-popover,
+.menu,
+.suggestion-container {
+    background-color: #FFFFFF01;
+    backdrop-filter: blur(30px);
+    border: none;
+}

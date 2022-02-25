@@ -1,0 +1,137 @@
+{
+  "main": {
+    "id": "e71926925a70034d",
+    "type": "split",
+    "children": [
+      {
+        "id": "88beb61f6593d1ec",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "202112100720_cap_theorem.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5c38eb6302c3d10d",
+    "type": "split",
+    "children": [
+      {
+        "id": "d59ba0b9f8abb1a8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cc67154dfc3d1952",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "878d0762534da9d0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "interface",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 268.5036334991455
+  },
+  "right": {
+    "id": "cab98c4606ad7911",
+    "type": "split",
+    "children": [
+      {
+        "id": "12f8c43504f78e24",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0bb55c5d17451234",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "202112100720_cap_theorem.md",
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "38709872d0f5c4a7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "202112100720_cap_theorem.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cc7a92c1703c2489",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "7fbbd613e021b92e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "202112100720_cap_theorem.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "88beb61f6593d1ec",
+  "lastOpenFiles": [
+    "202112100720_cap_theorem.md",
+    "202108151841_proxy_pattern.md",
+    "202111102036_map_is_not_a_territory.md",
+    "202111132207_socratic_questioning.md",
+    "202111132234_thought_experiment.md",
+    "202111132328_second_order_thinking.md",
+    "202111140050_probabilistic_thinking.md",
+    "202111141739_inversion.md",
+    "202111141756_occam's_razor.md",
+    "202108151843_adapter_pattern.md"
+  ]
+}
