@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "202112100720_cap_theorem.md",
-            "mode": "preview",
+            "file": "202205031842_thinking_in_systems_1.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 268.5036334991455
+    "width": 516
   },
   "right": {
     "id": "cab98c4606ad7911",
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202112100720_cap_theorem.md",
+                "file": "202205031842_thinking_in_systems_1.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "202112100720_cap_theorem.md",
+                "file": "202205031842_thinking_in_systems_1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "202112100720_cap_theorem.md"
+                "file": "202205031842_thinking_in_systems_1.md"
               }
             }
           }
@@ -123,15 +123,15 @@
   },
   "active": "88beb61f6593d1ec",
   "lastOpenFiles": [
+    "202205031842_thinking_in_systems_1.md",
     "202112100720_cap_theorem.md",
-    "202108151841_proxy_pattern.md",
-    "202111102036_map_is_not_a_territory.md",
-    "202111132207_socratic_questioning.md",
-    "202111132234_thought_experiment.md",
-    "202111132328_second_order_thinking.md",
-    "202111140050_probabilistic_thinking.md",
-    "202111141739_inversion.md",
     "202111141756_occam's_razor.md",
-    "202108151843_adapter_pattern.md"
+    "202111141739_inversion.md",
+    "202111140050_probabilistic_thinking.md",
+    "202111132328_second_order_thinking.md",
+    "202111132234_thought_experiment.md",
+    "202111132207_socratic_questioning.md",
+    "202111102230_circle_of_competence.md",
+    "202111102036_map_is_not_a_territory.md"
   ]
 }

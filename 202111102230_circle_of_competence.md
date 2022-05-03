@@ -9,7 +9,7 @@ Circle of competence adalah sebuah lingkup dimana kita memiliki kompetensi didal
 
 Seorang yang sudah lama berkecimpung didalam sebuah bidang, tentu memiliki tingkat pemahaman yang berbeda dengan orang yang baru memulai bidang tersebut. Dia memiliki *decision-making* yang jelas, karena dia tahu apa yang dia perbuat dan efek samping apa dari keputusan yang dia buat. Semakin *deep* pemahaman kita akan satu bidang, akan semakin membentuk Circle of Competence.
 
-> Untuk mengetahui apakah suatu bidang masuk dalam Circle of Competence adalah, kita tahu benar apa yang kita tidak tahu (*we know exactly what we don't know*). Kita tahu setiap detil, dan dengan ekstra knowledge mudah membuat keputusan. Kita tahu apa yang dapat ketahui dan apa yang tidak dapat diketahui, serta bisa membedakan keduanya.
+> Untuk mengetahui apakah suatu bidang masuk dalam Circle of Competence adalah, kita tahu benar apa yang kita tidak tahu (*we know exactly what we don't know*). Kita tahu setiap detil, dan dengan ekstra knowledge mudah membuat keputusan. Kita tahu apa yang dapat diketahui dan apa yang tidak dapat diketahui, serta bisa membedakan keduanya.
 > Bertolak belakang dari hal tersebut -diluar Circle of Competence-, kita menemukan bahwa kita tidak tahu apa yang kita tidak ketahui (*we don't know what we don't know*).
 
 3 hal untuk membentuk dan me-maintain Circle of Competence:
