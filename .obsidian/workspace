@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "202205031842_thinking_in_systems_1.md",
+            "file": "202205161526_event_sourcing.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "interface",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202205031842_thinking_in_systems_1.md",
+                "file": "202205161526_event_sourcing.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "202205031842_thinking_in_systems_1.md",
+                "file": "202205161526_event_sourcing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "202205031842_thinking_in_systems_1.md"
+                "file": "202205161526_event_sourcing.md"
               }
             }
           }
@@ -123,15 +123,15 @@
   },
   "active": "88beb61f6593d1ec",
   "lastOpenFiles": [
-    "202205031842_thinking_in_systems_1.md",
-    "202112100720_cap_theorem.md",
-    "202111141756_occam's_razor.md",
-    "202111141739_inversion.md",
-    "202111140050_probabilistic_thinking.md",
-    "202111132328_second_order_thinking.md",
-    "202111132234_thought_experiment.md",
-    "202111132207_socratic_questioning.md",
-    "202111102230_circle_of_competence.md",
-    "202111102036_map_is_not_a_territory.md"
+    "202205161526_event_sourcing.md",
+    "202205161506_domain_events.md",
+    "202205161512_causal_consistency.md",
+    "202205161439_anemic_domain_model.md",
+    "202205161414_tactical_design.md",
+    "202108240819_aggregates.md",
+    "202205160835_strategic_design.md",
+    "202205161347_ddd_big_ball_of_mud.md",
+    "202108211902_anti_corruption_layer.md",
+    "202205161343_ddd_published_language.md"
   ]
 }
